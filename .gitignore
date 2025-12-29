@@ -1,0 +1,16 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
